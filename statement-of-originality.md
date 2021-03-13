@@ -18,6 +18,10 @@ Add as many "name+comment" entries as necessary
 Add as many "url+licence+comment" entries as necessary
 
 ### Code:
+  - comment: Plotting a diagonal correlation matrix use seaborn components.
+    url: https://seaborn.pydata.org/examples/many_pairwise_correlations.html
+    licence: BSD 3-Clause "New" or "Revised" License
+    
   - comment: N/A
     url: N/A
     licence: N/A
