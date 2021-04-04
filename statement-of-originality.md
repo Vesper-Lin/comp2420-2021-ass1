@@ -1,46 +1,28 @@
-For information & examples on how to fill this out correctly, see [Statement of Originality](https://cs.anu.edu.au/courses/comp2420/resources/faq/#statement-of-originality)
-
 ## Declaration:
-  I declare that everything that I have submitted in this assignment is entirely my own work, with the following exceptions:
 
-In the fields below, replace 'N/A' with appropriate words, in case this applies
-to you.  'N/A' stands for 'Not Applicable', which implies that this does not
-apply to you (this is the default).  IF this does not apply to you, then leave the 'N/A' as is.
+I declare that everything that I have submitted in this assignment is entirely my own work, with the following exceptions:
 
-Add as many "name+comment" entries as necessary
 
 ### Collaboration:
   - name: N/A
     comment: 
       N/A
 
-
-Add as many "url+licence+comment" entries as necessary
-
 ### Code:
   - comment: Plotting a diagonal correlation matrix use seaborn components.
     url: https://seaborn.pydata.org/examples/many_pairwise_correlations.html
     licence: BSD 3-Clause "New" or "Revised" License
     
-  - comment: N/A
-    url: N/A
-    licence: N/A
-
-
-Add as many "url+licence+comment" entries as necessary
-
 ### Assets:
   - comment: N/A
     url: N/A
     licence: N/A
 
-
 ### References:
-Provide a list of Harvard/APA references for any references for written answers.
+  - Pandas.pydata.org. 2021. pandas.DataFrame.describe — pandas 1.2.3 documentation. [online] Available at <https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html> [Accessed 2 April 2021].
 
 
 ## Sign *your* name and uid here. 
 
 name: Vesper Lin  
 uid: u6828533
-
