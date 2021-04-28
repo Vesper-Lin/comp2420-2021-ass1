@@ -1,0 +1,78 @@
+                     ==============================
+                       COMP2420, Semester 1, 2021
+                         Assignment 1 Mark Sheet
+                     ==============================
+
+=======================================================
+  Uni Id  | Lab Group  | Tutor
+=======================================================
+ u6828533    vl-wed17-20 Jiyang Zheng, Sukai Huang
+=======================================================
+
+Gitlab Repo : u6828533/comp2420-2021-ass1
+
+Marker: Jiyang Zheng
+
+Marks
+=====
+
+======================================================
+ Q1. Loading and Processing the Data      :    5/5
+
+ Q2. Exploratory Data Analysis            :    20/20
+
+ Q3. Optimal Settings for Video Transcoding
+   Q3.1                                   :    2/2
+   Q3.2                                   :    2/4
+   Q3.3                                   :    2/4
+   Q3.4                                   :    3.5/5
+
+ Q4. Data Analysis
+   Q3.1                                   :    3.5/5
+   Q3.2                                   :    9/10
+   Q3.3                                   :    12/15
+   Q3.4                                   :    5/10
+
+ Q5. Linear Regression                    :    19/20
+
+ Penalty (if any)                         :    /100
+======================================================
+   Total (max 100)                        :  83.0
+======================================================
+
+
+Feedback
+========
+
+Loading and Processing the Data
+-------------------------------
+All Good
+
+
+Exploratory Data Analysis
+-------------------------
+Great demonstration
+
+
+Optimal Settings for Video Transcoding
+--------------------------------------
+Q3.2 Good thinking and data analysis, however, the conclusion is Incorrect, there is no transcoding parameters effect umem
+
+Q3.3 Correct conclusion but visualisation is required
+
+Q3.4 The line plot is confusing here
+
+Data Analysis
+-------------
+Q4.1 Didn't distinguishing the points on the plot based on o_resolution
+
+Q4.2 Inappropriate visualisation, a bar chart with both category and codec information would be preferred
+Linear Regression
+
+Q4.3 You should compare their mean value to show which one is faster, an one-tail test can't tell the direction
+
+Q4.2 Two relationships required
+
+Linear Regression
+-----------------
+Line plot isn't ideal here
